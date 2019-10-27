@@ -23,10 +23,10 @@ share:
 
 social:
   twitter: 'iron131211'
+  
 disqus: iron131211
-comments: true
-javascript: true
-
+ comments: true
+  
 permalink: /:year/:month/:title/
 
 # Enable for using pages, more details are here: http://jekyllrb.com/docs/pagination/
